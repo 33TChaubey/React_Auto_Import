@@ -1,2 +1,12 @@
-# React_Auto_Import
-React_Auto_Import
+First a Create a File in ROOT directory and set it to 
+
+`
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "checkJs": true,
+    "jsx": "react"
+  }
+}
+
+`
